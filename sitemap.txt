@@ -1,3 +1,4 @@
+http://example.com/2022/05/03/Html%E5%9F%BA%E7%A1%80/
 http://example.com/Gallery/wallpaper/index.html
 http://example.com/Gallery/index.html
 http://example.com/video/index.html
@@ -9,3 +10,4 @@ http://example.com/link/index.html
 http://example.com/2022/04/30/hello-world/
 http://example.com/
 http://example.com/tags/CTFweb/
+http://example.com/tags/%E5%89%8D%E7%AB%AF/
